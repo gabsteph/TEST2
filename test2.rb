@@ -43,5 +43,6 @@ __END__
   %h1.class.otherclass#id La La La
   
 - (42...47).each do |i|
+  %p ci dessous le num de ce paragraphe
   %p= i
 %p See, I can count!
